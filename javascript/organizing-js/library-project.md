@@ -135,4 +135,5 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [rholderfield's Solution](https://github.com/rholderfield/Book-Library) - [View in Browser](https://rholderfield.github.io/Book-Library/)
 - [martink-rsa's Solution](https://github.com/martink-rsa/booksLibrary) - [View in Browser](https://martink-rsa.github.io/booksLibrary/index.html)
 - [Harry Coburn's Solution](https://github.com/mattibun/odin-library) - [View in Browser](https://mattibun.github.io/odin-library/index.html)
+- [Lucien Stavenhagen's Solution](https://github.com/lucien-stavenhagen/landing-pages) - [View in Browser](https://lstavenhagen.com/samplepages/library.html)
 </details>
